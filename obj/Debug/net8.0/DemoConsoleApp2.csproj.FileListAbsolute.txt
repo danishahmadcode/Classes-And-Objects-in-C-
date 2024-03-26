@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Coding Playground\.NET Playground\.NET\DemoConsoleApp2\bin\Debug\net8.0\DemoConsoleApp2.exe
+C:\Users\Student\Desktop\Coding Playground\.NET Playground\.NET\DemoConsoleApp2\bin\Debug\net8.0\DemoConsoleApp2.deps.json
+C:\Users\Student\Desktop\Coding Playground\.NET Playground\.NET\DemoConsoleApp2\bin\Debug\net8.0\DemoConsoleApp2.runtimeconfig.json
+C:\Users\Student\Desktop\Coding Playground\.NET Playground\.NET\DemoConsoleApp2\bin\Debug\net8.0\DemoConsoleApp2.dll
+C:\Users\Student\Desktop\Coding Playground\.NET Playground\.NET\DemoConsoleApp2\bin\Debug\net8.0\DemoConsoleApp2.pdb
+C:\Users\Student\Desktop\Coding Playground\.NET Playground\.NET\DemoConsoleApp2\obj\Debug\net8.0\DemoConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Coding Playground\.NET Playground\.NET\DemoConsoleApp2\obj\Debug\net8.0\DemoConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Coding Playground\.NET Playground\.NET\DemoConsoleApp2\obj\Debug\net8.0\DemoConsoleApp2.AssemblyInfo.cs
+C:\Users\Student\Desktop\Coding Playground\.NET Playground\.NET\DemoConsoleApp2\obj\Debug\net8.0\DemoConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Coding Playground\.NET Playground\.NET\DemoConsoleApp2\obj\Debug\net8.0\DemoConsoleApp2.dll
+C:\Users\Student\Desktop\Coding Playground\.NET Playground\.NET\DemoConsoleApp2\obj\Debug\net8.0\refint\DemoConsoleApp2.dll
+C:\Users\Student\Desktop\Coding Playground\.NET Playground\.NET\DemoConsoleApp2\obj\Debug\net8.0\DemoConsoleApp2.pdb
+C:\Users\Student\Desktop\Coding Playground\.NET Playground\.NET\DemoConsoleApp2\obj\Debug\net8.0\DemoConsoleApp2.genruntimeconfig.cache
+C:\Users\Student\Desktop\Coding Playground\.NET Playground\.NET\DemoConsoleApp2\obj\Debug\net8.0\ref\DemoConsoleApp2.dll
